@@ -12,6 +12,7 @@ MyFirstReactAppNotes - This repo will have all the details that i used to learn 
 mkdir project-directory // this command create a seperate project directory
 cd project-directory // go to the newly created directory
 npx create-react-app my-app1-ts --template typescript // created react app with all basic files to get started
+cd my-app1-ts // go to the newly created application folder
 ```
 
 - Step 2: 
